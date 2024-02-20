@@ -1,0 +1,66 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/unvtbkgxh47BewQ8pENvdOdme0r.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1212073,
+      "original_language": "de",
+      "original_title": "60 Minuten",
+      "overview": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+      "popularity": 1467.616,
+      "poster_path": "/jojfbnIHGsRpodIood3OQoqA45Y.jpg",
+      "release_date": "2024-01-19",
+      "title": "Sixty Minutes",
+      "video": false,
+      "vote_average": 6.869,
+      "vote_count": 370
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A0EqMM4WZpzfxpdoDoqICCpzSQ1.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 609681,
+      "original_language": "en",
+      "original_title": "The Marvels",
+      "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "popularity": 1316.793,
+      "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "release_date": "2023-11-08",
+      "title": "The Marvels",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 1776
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yl2GfeCaPoxChcGyM5p7vYp1CKS.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10749
+      ],
+      "id": 848187,
+      "original_language": "en",
+      "original_title": "Role Play",
+      "overview": "Emma has a wonderful husband and two kids in the suburbs of New Jersey – she also has a secret life as an assassin for hire – a secret that her husband David discovers when the couple decide to spice up their marriage with a little role play.",
+      "popularity": 798.374,
+      "poster_path": "/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg",
+      "release_date": "2024-01-04",
+      "title": "Role Play",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 359
+    }
+  ],
+  "total_pages": 42543,
+  "total_results": 850853
+}

@@ -1,0 +1,404 @@
+
+{
+  "dates": {
+    "maximum": "2024-03-13",
+    "minimum": "2024-02-21"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 634492,
+      "original_language": "en",
+      "original_title": "Madame Web",
+      "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+      "popularity": 1292.366,
+      "poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "release_date": "2024-02-14",
+      "title": "Madame Web",
+      "video": false,
+      "vote_average": 5.384,
+      "vote_count": 172
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 866398,
+      "original_language": "en",
+      "original_title": "The Beekeeper",
+      "overview": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+      "popularity": 936.355,
+      "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "release_date": "2024-01-10",
+      "title": "The Beekeeper",
+      "video": false,
+      "vote_average": 7.26,
+      "vote_count": 1202
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 897087,
+      "original_language": "en",
+      "original_title": "Freelance",
+      "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+      "popularity": 727.949,
+      "poster_path": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+      "release_date": "2023-10-05",
+      "title": "Freelance",
+      "video": false,
+      "vote_average": 6.56,
+      "vote_count": 564
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1072790,
+      "original_language": "en",
+      "original_title": "Anyone But You",
+      "overview": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "popularity": 664.351,
+      "poster_path": "/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg",
+      "release_date": "2023-12-21",
+      "title": "Anyone But You",
+      "video": false,
+      "vote_average": 6.925,
+      "vote_count": 460
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+      "genre_ids": [
+        878,
+        10749,
+        35
+      ],
+      "id": 792307,
+      "original_language": "en",
+      "original_title": "Poor Things",
+      "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+      "popularity": 610.946,
+      "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "release_date": "2023-12-07",
+      "title": "Poor Things",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 1249
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "popularity": 594.229,
+      "poster_path": "/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+      "release_date": "2023-07-19",
+      "title": "Oppenheimer",
+      "video": false,
+      "vote_average": 8.117,
+      "vote_count": 6733
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1ZSKH5GGFlM8M32K34GMdaNS2Ew.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 802219,
+      "original_language": "en",
+      "original_title": "Bob Marley: One Love",
+      "overview": "Jamaican singer-songwriter Bob Marley overcomes adversity to become the most famous reggae musician in the world.",
+      "popularity": 481.028,
+      "poster_path": "/1lQftpEARVVB9op4TaYiIbactzG.jpg",
+      "release_date": "2024-02-14",
+      "title": "Bob Marley: One Love",
+      "video": false,
+      "vote_average": 6.903,
+      "vote_count": 67
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14
+      ],
+      "id": 508883,
+      "original_language": "ja",
+      "original_title": "君たちはどう生きるか",
+      "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+      "popularity": 492.711,
+      "poster_path": "/jDQPkgzerGophKRRn7MKm071vCU.jpg",
+      "release_date": "2023-07-14",
+      "title": "The Boy and the Heron",
+      "video": false,
+      "vote_average": 7.447,
+      "vote_count": 961
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "popularity": 433.918,
+      "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "release_date": "2021-09-15",
+      "title": "Dune",
+      "video": false,
+      "vote_average": 7.787,
+      "vote_count": 10099
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 850165,
+      "original_language": "en",
+      "original_title": "The Iron Claw",
+      "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+      "popularity": 362.266,
+      "poster_path": "/nfs7DCYhgrEIgxKYbITHTzKsggf.jpg",
+      "release_date": "2023-12-21",
+      "title": "The Iron Claw",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 235
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+      "genre_ids": [
+        16,
+        35,
+        18,
+        10751
+      ],
+      "id": 838240,
+      "original_language": "es",
+      "original_title": "Robot Dreams",
+      "overview": "Dog lives in Manhattan and he's tired of being alone. One day he decides to build himself a robot, a companion. Their friendship blossoms, until they become inseparable, to the rhythm of 80's NYC. One summer night, Dog, with great sadness, is forced to abandon Robot at the beach. Will they ever meet again?",
+      "popularity": 350.349,
+      "poster_path": "/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
+      "release_date": "2023-10-20",
+      "title": "Robot Dreams",
+      "video": false,
+      "vote_average": 7.153,
+      "vote_count": 59
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uhUO7vQQKvCTfQWubOt5MAKokbL.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "popularity": 322.111,
+      "poster_path": "/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+      "release_date": "2024-02-27",
+      "title": "Dune: Part Two",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 678512,
+      "original_language": "en",
+      "original_title": "Sound of Freedom",
+      "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+      "popularity": 296.647,
+      "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "release_date": "2023-07-03",
+      "title": "Sound of Freedom",
+      "video": false,
+      "vote_average": 8.054,
+      "vote_count": 1972
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10752
+      ],
+      "id": 969492,
+      "original_language": "en",
+      "original_title": "Land of Bad",
+      "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+      "popularity": 241.109,
+      "poster_path": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
+      "release_date": "2024-01-25",
+      "title": "Land of Bad",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        14
+      ],
+      "id": 508947,
+      "original_language": "en",
+      "original_title": "Turning Red",
+      "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+      "popularity": 213.533,
+      "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "release_date": "2022-03-10",
+      "title": "Turning Red",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 4752
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/puUUsAri2UchyJgsbkpO3HZfKiw.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 862557,
+      "original_language": "en",
+      "original_title": "The Hill",
+      "overview": "The story of Rickey Hill, who overcomes his physical disability and repairs his relationship with his father in a quest to become a major league baseball (MLB) player.",
+      "popularity": 264.487,
+      "poster_path": "/gKh28PVUqt1vY2oAdFlauXkDacW.jpg",
+      "release_date": "2023-08-18",
+      "title": "The Hill",
+      "video": false,
+      "vote_average": 7.612,
+      "vote_count": 107
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/klb3yODwKMRle19EcvdeSatEZL7.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1072342,
+      "original_language": "en",
+      "original_title": "Night Swim",
+      "overview": "Forced into early retirement by a degenerative illness, former baseball player Ray Waller moves into a new house with his wife and two children. He hopes that the backyard swimming pool will be fun for the kids and provide physical therapy for himself. However, a dark secret from the home's past soon unleashes a malevolent force that drags the family into the depths of inescapable terror.",
+      "popularity": 163.012,
+      "poster_path": "/gf7byRrH3m0URyBQj78t21RfloF.jpg",
+      "release_date": "2024-01-03",
+      "title": "Night Swim",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 243
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fGe1ej335XbqN1j9teoDpofpbLX.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        80
+      ],
+      "id": 915935,
+      "original_language": "fr",
+      "original_title": "Anatomie d'une chute",
+      "overview": "A woman is suspected of her husband’s murder, and their blind son faces a moral dilemma as the sole witness.",
+      "popularity": 178.775,
+      "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+      "release_date": "2023-08-13",
+      "title": "Anatomy of a Fall",
+      "video": false,
+      "vote_average": 7.735,
+      "vote_count": 986
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8te0oIAuUOxi03RbM1SfL3xUYHB.jpg",
+      "genre_ids": [
+        35,
+        28,
+        80
+      ],
+      "id": 848538,
+      "original_language": "en",
+      "original_title": "Argylle",
+      "overview": "When the plots of reclusive author Elly Conway's fictional espionage novels begin to mirror the covert actions of a real-life spy organization, quiet evenings at home become a thing of the past. Accompanied by her cat Alfie and Aiden, a cat-allergic spy, Elly races across the world to stay one step ahead of the killers as the line between Conway's fictional world and her real one begins to blur.",
+      "popularity": 191.07,
+      "poster_path": "/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+      "release_date": "2024-01-31",
+      "title": "Argylle",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 272
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zA4sQNuZc4WcZtnbwE5xe5sy9jC.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 467244,
+      "original_language": "en",
+      "original_title": "The Zone of Interest",
+      "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+      "popularity": 145.163,
+      "poster_path": "/ruyeAfmxbNPWZ92dWymqwTc6nWV.jpg",
+      "release_date": "2023-11-03",
+      "title": "The Zone of Interest",
+      "video": false,
+      "vote_average": 7.339,
+      "vote_count": 205
+    }
+  ],
+  "total_pages": 45,
+  "total_results": 895
+}
