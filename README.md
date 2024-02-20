@@ -1,11 +1,11 @@
-Submission:
-Push your code to a public repository on GitHub or a similar platform.
-Include a README.md file in your repository with:
-Instructions on how to run the app.
-Any other relevant information or decisions you'd like to share.
-Share the repository link and any other necessary access details.
+Follow these steps to successfully run this project:
+- create an account on https://www.themoviedb.org
+- go to account setting and get the api-key from API section
+- use this api-key in constants/index.js file 
+- run "npm install"
+- run "expo start"
+- Install Expo Go app in your phone And Scan QR Code.
 
-Instructions on how to run the app.
-Expo Project: 
-command : Expo start
-Install Expo Go app in your phone And Scan QR Code. 
+- Note:- Here api is not working so Purchased VPN and run api so it's working
+- Before that same response for all api used from static json which is also there in code. 
+
