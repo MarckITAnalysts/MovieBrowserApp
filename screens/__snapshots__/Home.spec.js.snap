@@ -1,0 +1,280 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home screet test cases renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "flexBasis": "0%",
+        "flexGrow": 1,
+        "flexShrink": 1,
+      },
+      {
+        "backgroundColor": "#262626",
+      },
+    ]
+  }
+>
+  <RNCSafeAreaView
+    edges={
+      {
+        "bottom": "additive",
+        "left": "additive",
+        "right": "additive",
+        "top": "additive",
+      }
+    }
+    style={
+      [
+        {
+          "marginBottom": -8,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "flexDirection": "row",
+          },
+          {
+            "justifyContent": "space-between",
+          },
+          {
+            "alignItems": "center",
+          },
+          {
+            "marginLeft": 16,
+            "marginRight": 16,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#fff",
+            },
+            {
+              "fontSize": 30,
+              "lineHeight": 36,
+            },
+            {
+              "fontWeight": "700",
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "#FFFFFF",
+            }
+          }
+        >
+          M
+        </Text>
+        ovies
+      </Text>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <RNSVGSvgView
+          align="xMidYMid"
+          aria-hidden="true"
+          bbHeight="30"
+          bbWidth="30"
+          color="white"
+          fill="none"
+          focusable={false}
+          height="30"
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          stroke="currentColor"
+          strokeWidth={2}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+          tintColor="white"
+          vbHeight={24}
+          vbWidth={24}
+          width="30"
+        >
+          <RNSVGGroup
+            fill={null}
+            propList={
+              [
+                "fill",
+                "stroke",
+                "strokeWidth",
+              ]
+            }
+            stroke={
+              {
+                "type": 2,
+              }
+            }
+            strokeWidth="2"
+          >
+            <RNSVGPath
+              d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
+              fill={
+                {
+                  "payload": 4278190080,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+    </View>
+  </RNCSafeAreaView>
+  <View
+    style={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "flexDirection": "row",
+        },
+        {
+          "justifyContent": "center",
+        },
+        {
+          "alignItems": "center",
+        },
+        {
+          "height": 1334,
+          "width": 750,
+        },
+      ]
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "transparent",
+          "overflow": "hidden",
+          "transform": [
+            {
+              "rotate": "0deg",
+            },
+          ],
+        }
+      }
+      useNativeDriver={false}
+    >
+      <RNSVGSvgView
+        bbHeight="160"
+        bbWidth="160"
+        focusable={false}
+        height={160}
+        style={
+          [
+            {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            {
+              "flex": 0,
+              "height": 160,
+              "width": 160,
+            },
+          ]
+        }
+        width={160}
+      >
+        <RNSVGGroup
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+        >
+          <RNSVGPath
+            d="M73.81032816789664 18.309741752762406
+          A62 62 0 0 1 80 18"
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+            propList={
+              [
+                "stroke",
+                "strokeWidth",
+                "strokeLinecap",
+              ]
+            }
+            stroke={
+              {
+                "payload": 4293571336,
+                "type": 0,
+              }
+            }
+            strokeLinecap={1}
+            strokeWidth="12"
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+  </View>
+</View>
+`;
