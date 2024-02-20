@@ -4,5 +4,3 @@ Follow these steps to successfully run this project:
 - use this api-key in constants/index.js file 
 - run "npm install"
 - run "npm run start"
-
-If you stuck somewhere contact me on buymeacoffee.com.
