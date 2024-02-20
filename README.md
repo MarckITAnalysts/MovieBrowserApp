@@ -5,7 +5,7 @@ Instructions on how to run the app.
 Any other relevant information or decisions you'd like to share.
 Share the repository link and any other necessary access details.
 
-Expo: 
 Instructions on how to run the app.
+Expo Project: 
 command : Expo start
 Install Expo Go app in your phone And Scan QR Code. 
