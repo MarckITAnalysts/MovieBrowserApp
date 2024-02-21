@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`movie list test cases renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "marginBottom": 32,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      [
+        {
+          "marginLeft": 16,
+          "marginRight": 16,
+        },
+        {
+          "flexDirection": "row",
+        },
+        {
+          "justifyContent": "space-between",
+        },
+        {
+          "alignItems": "center",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "color": "#fff",
+          },
+          {
+            "fontSize": 18,
+            "lineHeight": 28,
+          },
+        ]
+      }
+    >
+      Now Playing
+    </Text>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "fontSize": 18,
+              "lineHeight": 28,
+            },
+            {
+              "color": "#FFFFFF",
+            },
+          ]
+        }
+      >
+        See All
+      </Text>
+    </View>
+  </View>
+  <RCTScrollView
+    contentContainerStyle={
+      {
+        "paddingHorizontal": 15,
+      }
+    }
+    horizontal={true}
+    showsHorizontalScrollIndicator={false}
+    style={
+      [
+        {
+          "marginTop": 16,
+        },
+      ]
+    }
+  >
+    <View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          [
+            {
+              "marginRight": 16,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            {
+              "uri": "https://image.tmdb.org/t/p/w185/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",
+            }
+          }
+          style={
+            [
+              {
+                "borderBottomLeftRadius": 24,
+                "borderBottomRightRadius": 24,
+                "borderTopLeftRadius": 24,
+                "borderTopRightRadius": 24,
+              },
+              {
+                "height": 293.48,
+                "width": 247.5,
+              },
+            ]
+          }
+        />
+        <Text
+          style={
+            [
+              {
+                "color": "#d4d4d4",
+              },
+              {
+                "marginLeft": 4,
+              },
+              [
+                {
+                  "marginTop": 4,
+                },
+              ],
+            ]
+          }
+        >
+          Badland Hunter...
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cast test cases renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "marginBottom": 24,
+        "marginTop": 24,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#fff",
+        },
+        {
+          "fontSize": 18,
+          "lineHeight": 28,
+        },
+        {
+          "marginLeft": 16,
+          "marginRight": 16,
+        },
+        {
+          "marginBottom": 20,
+        },
+      ]
+    }
+  >
+    Top Cast
+  </Text>
+  <RCTScrollView
+    contentContainerStyle={
+      {
+        "paddingHorizontal": 15,
+      }
+    }
+    horizontal={true}
+    showsHorizontalScrollIndicator={false}
+  >
+    <View />
+  </RCTScrollView>
+</View>
+`;
